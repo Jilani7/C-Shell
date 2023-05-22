@@ -11,7 +11,6 @@
 
 #define MAX_LIMIT 30 
 
-// NOTE : Some Helpful code is taken from Internet like Reading, Tokenizing String or using some system calls.
 
 void checkHostName(int hostname) { 
     if (hostname == -1) { 
